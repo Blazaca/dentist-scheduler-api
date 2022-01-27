@@ -1,0 +1,40 @@
+<ArrayOfDefaultSchedule xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/EJServices.Models">
+<DefaultSchedule>
+    <AllDay>false</AllDay>
+    <StartTimeZone i:nil="true" />
+    <StartTime>2021-01-01T09:00:00</StartTime>
+    <RecurrenceEndDate i:nil="true" />
+    <RecurrenceRule>FREQ=DAILY;INTERVAL=2;COUNT=10</RecurrenceRule>
+    <RecurrenceStartDate i:nil="true" />
+    <RecurrenceTypeCount i:nil="true" />
+    <Reminder i:nil="true" />
+    <Location>Your moms place</Location>
+    <Owner>1</Owner>
+    <RecurrenceType i:nil="true" />
+    <Priority i:nil="true" />
+    <Description i:nil="Please work" />
+    <CustomStyle i:nil="true" />
+    <Recurrence>1</Recurrence>
+    <Subject>Bering Sea Gold</Subject>
+    <Categorize>1,2</Categorize>
+    <EndTime>2021-01-01T010:00:00</EndTime>
+</DefaultSchedule><DefaultSchedule>
+    <AllDay>false</AllDay>
+    <StartTimeZone i:nil="true" />
+    <StartTime>2021-25-01T09:00:00</StartTime>
+    <RecurrenceEndDate i:nil="true" />
+    <RecurrenceRule>FREQ=DAILY;INTERVAL=2;COUNT=10</RecurrenceRule>
+    <RecurrenceStartDate i:nil="true" />
+    <RecurrenceTypeCount i:nil="true" />
+    <Reminder i:nil="true" />
+    <Location>Your moms place</Location>
+    <Owner>1</Owner>
+    <RecurrenceType i:nil="true" />
+    <Priority i:nil="true" />
+    <Description i:nil="Please work" />
+    <CustomStyle i:nil="true" />
+    <Recurrence>1</Recurrence>
+    <Subject>Bering Sea Gold</Subject>
+    <Categorize>1,2</Categorize>
+    <EndTime>2021-25-01T010:00:00</EndTime>
+</DefaultSchedule></ArrayOfDefaultSchedule>
